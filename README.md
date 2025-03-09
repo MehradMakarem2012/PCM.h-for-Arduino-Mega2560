@@ -3,7 +3,7 @@
 
 The PCM.h library for Arduino Mega 2560 by MehradMakarem <Mehradmakaremed@gmail.com>
 
-#How to use?
+# How to use?
   1.Connect your speaker pin to arduino pin 9
 
   2.Open the Examples, MEGA_PCM, and the select playback
@@ -12,7 +12,9 @@ The PCM.h library for Arduino Mega 2560 by MehradMakarem <Mehradmakaremed@gmail.
 
   3.Uploadd the code to arduino mega 2560
 
-#How to compile your music?
+  NOTE:Call the library <PCM.h>
+
+# How to compile your music?
   1.Open Audacity app
 
   2.Open MP3 file
@@ -32,5 +34,5 @@ The PCM.h library for Arduino Mega 2560 by MehradMakarem <Mehradmakaremed@gmail.
   9.Replace the copied code to const unsigned char sample[] in playback file
 
   10.upload the code.
-
+  
 (-://Thank you for your attention!\\:-)
